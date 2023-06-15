@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(56, 121, 133);
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    font-style: oblique;
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    margin: 1%;
+    border-radius: 0.2rem;
+}
+li {
+    display: inline-block;
+    padding: 0.7%;
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: beige;
+    margin-left: 1%;
+    align-items: left;
+    border-radius: 0.1rem;
+}
+.imagens img{
+    width: 12vw; 
+    height: 20vh;
+    margin: 1%; 
+    border-radius: 1rem;
+}
+
+.imagens{
+    text-align: center;
+    line-height: 10vh;
+    
+}
+
+
+
